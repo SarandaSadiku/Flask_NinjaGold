@@ -1,0 +1,32 @@
+*{
+    font-family: 'Times New Roman';
+
+}
+.form{
+
+    display: inline-block;
+    vertical-align: top;
+    background-color: #E5E8E8;
+    padding: 20px;
+    text-align: center;
+    width: 200px;
+    height: 180px;
+    border: 2px solid black;
+    margin-right: 10px;
+}
+span{
+    border: 2px solid black;
+    padding: 10px;
+}
+#activities{
+    border: 2px solid black;
+    height: 140px;
+    width: 1015px;
+    overflow-y: scroll;
+}
+.red{
+    color: red;
+}
+.green{
+    color: green;
+}
